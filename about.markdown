@@ -11,7 +11,7 @@ permalink: /about/
 - Ziegeleiweg 29
 - 26203 Wardenburg
 - +49 160 96657514
-- tobias@couchallenge.de
+- tobias@adult-league.de
 
 ## Datensicherheit
 
